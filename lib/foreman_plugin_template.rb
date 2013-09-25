@@ -1,4 +1,4 @@
 require "foreman_plugin_template/engine"
 
-module ForemanPluginTemplate
+module ForemanHostnameGenerator
 end
